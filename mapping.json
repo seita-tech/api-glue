@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "http://requestb.in/ov5su0ov",
+  "headers": {
+    "content-type": "application/json"
+  },
+  "body": {
+      "status": "{{body.sender.login}} pushed to {{body.repository.full_name}}"
+  }
+}

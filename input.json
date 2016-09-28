@@ -1,0 +1,43 @@
+{
+  "url": "https://apiglue.com/da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "method": "",
+  "headers": {
+    "content-type": "application/json"
+  },
+  "qs": {
+    "q": "search"
+  },
+  "body": {
+      "repository": {
+        "id": 69407161,
+        "name": "dummyrepo",
+        "full_name": "pereirazc/dummyrepo",
+        "owner": {
+          "login": "pereirazc",
+          "id": 1058758,
+          "avatar_url": "https://avatars.githubusercontent.com/u/1058758?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/pereirazc",
+          "html_url": "https://github.com/pereirazc",
+          "followers_url": "https://api.github.com/users/pereirazc/followers",
+          "following_url": "https://api.github.com/users/pereirazc/following{/other_user}",
+          "gists_url": "https://api.github.com/users/pereirazc/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/pereirazc/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/pereirazc/subscriptions",
+          "organizations_url": "https://api.github.com/users/pereirazc/orgs",
+          "repos_url": "https://api.github.com/users/pereirazc/repos",
+          "events_url": "https://api.github.com/users/pereirazc/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/pereirazc/received_events",
+          "type": "User",
+          "site_admin": false
+        }
+      },
+      "sender": {
+        "login": "pereirazc",
+        "id": 1058758,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1058758?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/pereirazc"
+      }
+  }
+}
