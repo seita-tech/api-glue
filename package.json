@@ -1,5 +1,6 @@
 {
   "name": "apiglue",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
