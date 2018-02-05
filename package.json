@@ -9,9 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.0.11",
+    "expand-json": "^0.3.0",
     "lodash": "^4.17.5",
-    "lodash-deep": "^2.0.0",
     "request": "^2.83.0"
   }
 }
